@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "132c206b-a309-429b-a3dc-ae1af7ccd330": {
+      "ProjectGuid": "132c206b-a309-429b-a3dc-ae1af7ccd330",
+      "DisplayName": "Fibonachi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
